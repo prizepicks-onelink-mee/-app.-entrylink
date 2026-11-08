@@ -1,1 +1,1 @@
-# fandduel-app.-entrylink
+# -app.-entrylink
